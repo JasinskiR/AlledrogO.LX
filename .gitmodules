@@ -1,0 +1,6 @@
+[submodule "backend/AlledrogO.LX_backend"]
+	path = backend/AlledrogO.LX_backend
+	url = git@github.com:JasinskiR/AlledrogO.LX_backend.git
+[submodule "frontend/AlledrogO.LX_frontend"]
+	path = frontend/AlledrogO.LX_frontend
+	url = git@github.com:JasinskiR/AlledrogO.LX_frontend.git
